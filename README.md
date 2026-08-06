@@ -1,4 +1,4 @@
-# 👋 Hola, soy Selu
+# 👋 Hola, soy José Luis (selu)
 
 Bienvenido a mi perfil profesional en GitHub. 🚀  
 
