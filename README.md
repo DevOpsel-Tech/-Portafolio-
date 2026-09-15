@@ -67,4 +67,3 @@ Estoy interesado en oportunidades dentro del sector tecnológico, especialmente 
 
 ## 📫 Contacto
 - Email: [jlmn85@outlook.es](mailto:jlmn85@outlook.es)
-- Sígueme en GitHub: [<img src="https://img.shields.io/badge/Follow-%40JLMN--NintaiDigital-blue?style=for-the-badge&logo=github"/>](https://github.com/JLMN-NintaiDigital)
